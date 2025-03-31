@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Software Developer in streaming and remote production industry<br>More than 6 years of Full Stack development<br>Software Developer based in Germany
+Full Stack Software Developer in streaming and remote production industry<br>More than 9 years of Full Stack development<br>Software Developer based in Germany
 
 
 # 💻 Tech Stack:
